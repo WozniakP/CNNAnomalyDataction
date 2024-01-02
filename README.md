@@ -10,6 +10,7 @@ The demo shows an example of using Autoencoders ([MATLAB trainautoencoder](https
 ##### DataSet
 The code uses a collection of images collected by robots and manually in nine rooms. Description and data of the collection can be found at the link.
 <a href="[https://www.youtube.com/watch?v=lBZRqR1ieBE](http://pwozniak.kia.prz.edu.pl/html/com/multiDomainDatasetRobotsPRz)">LINK</a>
+<br>
 <a href="https://www.youtube.com/watch?v=lBZRqR1ieBE">
 <img src='http://pwozniak.kia.prz.edu.pl/image/demo.png'  width='400'>
 </a>
