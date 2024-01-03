@@ -1,4 +1,4 @@
-## Multi Domain Dataset for Robots - PRz (MDDRobot-PRz)
+## Multi Domain Dataset for Robots (MDDRobots)
 <hr>
 
 ##### Dataset Indoor Visual Place Recognition
